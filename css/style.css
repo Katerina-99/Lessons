@@ -17,7 +17,7 @@ img {
   background-image: url(../img/koh-pangan.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  margin: 0;
+  margin: auto;
 }
 .title {
   margin: 0;
