@@ -249,6 +249,13 @@ img {
   }
 }
 @media (max-width: 480px) {
+  .container {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  .title {
+    font-size: 34px;
+  }
    .subtitle {
     font-size: 24px;
   }
